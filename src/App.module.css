@@ -1,0 +1,79 @@
+
+
+nav{
+    display:flex;
+    justify-content: space-between;;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+   background: #025FEB;
+   color: #FFFFFF;
+   height:70px;
+   /* margin: 40px;  */
+   display:inline;
+   float:left;
+   
+  }
+  #schdeuleid{
+    justify-content: space-between;
+    color:#FFFFFF;
+    float:left;
+    width:300px;
+  }
+  #leaderid{
+    justify-content: space-between;
+    color:#FFFFFF;
+    float:left;
+    width:300px;
+ 
+  }
+
+  #faviconid{
+      font-weight: bold;
+      color:#FFFFFF;
+      display:flex;
+    justify-content: space-between;
+    filter: brightness(0.25);
+  }
+  
+  
+  .nav-list {
+    display: flex;
+    margin-right: 2rem;
+    justify-content: space-between;
+  }
+
+  li{
+      list-style: none;
+      color: #FFFFFF;
+  }
+   
+  a{
+    text-decoration: none;
+    color:white;
+    padding-bottom: 1000px;
+    margin:auto;
+    text-align:center;
+  }
+
+  nav ul li:first-child { float: left; }
+
+nav ul li { 
+  list-style:none;
+  margin:10px;
+  float: right; 
+}
+
+/* footer{
+  background-color: #F6F7F7;
+  height:40px;
+  text-align: right;
+} */
+  /* float:right; */
+ /* padding : */
+  /* margin: 20px 10px; */
+/* } */
+
+
+
